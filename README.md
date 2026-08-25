@@ -1,14 +1,14 @@
-# Digital ALU Design
+# Digital 8 bit ALU Design
 
 ## Design Overview
 
-This project presents the design of an Arithmetic Logic Unit (ALU) using the Digital logic simulator.
+This project presents the design of an 8 bit Arithmetic Logic Unit (ALU) using the Digital logic simulator.
 
 The ALU is a key component in basic computer architecture, responsible for executing arithmetic, logical, and shift operations required for data processing.
 
 The designed unit supports multiple operation modes selected through control inputs, demonstrating the core functionality of an ALU used in a basic computer system.
 
-## 8bit Supported Operations
+## Supported Operations
 
 ### Arithmetic Operations
 
@@ -31,5 +31,5 @@ The designed unit supports multiple operation modes selected through control inp
 - Logical Shift Left (LSHL A)
 - Arithmetic Shift Right (ASHR A)
 
-### 8bit Design Preview
+## Design Preview
 ![8-Bit ALU Design](8bit-ALU-Digital-Design.png)
