@@ -30,3 +30,5 @@ The designed unit supports multiple operation modes selected through control inp
 - Logical Shift Right (LSHR A)
 - Logical Shift Left (LSHL A)
 - Arithmetic Shift Right (ASHR A)
+
+![8-Bit ALU Design](8bit-ALU-Digital-Design.png)
